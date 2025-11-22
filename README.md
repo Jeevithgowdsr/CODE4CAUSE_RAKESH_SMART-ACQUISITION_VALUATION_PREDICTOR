@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Acquirer - AI Startup Valuation & Acquisition Predictor
 
 Smart Acquirer is an AI-powered platform that predicts startup valuations and acquisition likelihood using machine learning models trained on real-world datasets.
@@ -186,3 +187,6 @@ To test the dataset feeding process:
 ## License
 
 This project is licensed under the MIT License.
+=======
+# smart-acquirer
+>>>>>>> 7e4f0179ba6c78497417067279781e30ad4a039e
